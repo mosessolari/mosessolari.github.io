@@ -22,7 +22,7 @@ $S$ is also analytically extended such that
 
 ### Motivation
 
-In our ever bourgeoning world of experience, there is a perpetual arms race that is associated with the war of discovery, and in good favour, we must treat our prized armory with respect and care, ensuring we always strive to have our blades sharpened and throats polished. Simply put, this is my attempt at refurbishing one of mathematics best weapons: the Sigma notation. Narrowing the scope down to direction application; I will be using the aforementioned analogue expression for $S$ to generalise the Polygamma function in a future post, and in a similar vain, implications in statistical and quantum mechanic can be recognised.
+In our ever bourgeoning world of experience, there is a perpetual arms race that is associated with the war of discovery, and in good favour, we must treat our prized armory with respect and care, ensuring we always strive to have our blades sharpened and throats polished. Simply put, this is my attempt at refurbishing one of mathematics best weapons: the Sigma notation. Narrowing the scope down to direction application; I will be using the aforementioned analogue expression for $S$ to generalise the Polygamma function in a future post, and in a similar vein, implications in statistical and quantum mechanic can be recognised.
 
 <br></br>
 
