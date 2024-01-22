@@ -3,8 +3,8 @@
 # Analytic Continuation of the Sigma notation (across its indices) from $\mathbb{Z}\to\mathbb{C}$
 
 ## Introduction
-The Sigma notation in mathematics is a notation that is used as an analogue to the iterative operation of addition.
-It is a fundamental construct of arithmatic mathematics, and has been studied extensively, however, only for summations up to some $`N:N\in\mathbb{Z}`$.
+The Sigma notation in mathematics is a notation that is used to express the iterative operation of addition.
+It is a fundamental construct of arithmatic mathematics, and has been studied extensively, however, only for summations up to some $`N:N\in\mathbb{Z}`$ (AFAIK, anyway).
 In this text I will be deriving the following expression for a "smooth" summation function, S
 ```math
 S(x,f,N)=\sum_{k=a}^x\left[f(k)-f(k+N)\right]=\sum_{k=a}^N\left[f(k)-f(k+x)\right]
