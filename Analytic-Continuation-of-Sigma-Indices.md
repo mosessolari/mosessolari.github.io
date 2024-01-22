@@ -23,8 +23,8 @@ In our ever bourgeoning world of experience, there is unending arms race associa
 
 ## Math:
 
-First, observe the definition for the Sigma function that adds $f(k)$ up to $xth$ terms, while introducing some independent variable, $m$:
-$$\sum_{k=a}^x\left[f(k)\right]=\sum_{k=a}^x\left[f(k)\right]+\sum_{k=x+1}^m\left[f(k)\right]-\sum_{k=x+1}^m\left[f(k)\right]\quad\forall\ m:m\in\mathbb{Z}$$
+First, observe the definition for the Sigma function that adds $f(k)$ and $xth$ number of times, with the introduction of some independent variable, $m$:
+$$\sum_{k=a}^x\left[f(k)\right]=\sum_{k=a}^x\left[f(k)\right]+\sum_{k=x+1}^N\left[f(k)\right]-\sum_{k=x+1}^N\left[f(k)\right]\quad\forall\ N:N\in\mathbb{Z}$$
 
 
 --------------------
