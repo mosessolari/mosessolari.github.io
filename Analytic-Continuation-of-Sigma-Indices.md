@@ -7,9 +7,9 @@
 The "Sigma" function in mathematics is a notation that is used as an analogue to the iterative operation of addition.
 It is a fundamental construct of arithmatic mathematics, and has been studied extensively, however, only for summations up to some $`N:N\in\mathbb{Z}`$.
 In this text I will be deriving the following expression for the Sigma function:
-$$S(z)=\lim_{N\to\infty}\sum_{k=a}^z\left[f(k)-f(k+N)\right]=\lim_{N\to\infty}\sum_{k=a}^N\left[f(k)-f(k+z)\right]\quad\forall\ z:z\in\mathbb{C}$$
+$$S(f,z)=\lim_{N\to\infty}\sum_{k=a}^z\left[f(k)-f(k+N)\right]=\lim_{N\to\infty}\sum_{k=a}^N\left[f(k)-f(k+z)\right]\quad\forall\ z:z\in\mathbb{C}$$
 I also present cases where:
-$$S(x):=\sum_{k=a}^x\left[f(k)\right]\quad\forall\ x:x\in\mathbb{R}$$
+$$S(f,x):=\sum_{k=a}^x\left[f(k)\right]\quad\forall\ x:x\in\mathbb{R}$$
 
 <br></br>
 <br></br>
