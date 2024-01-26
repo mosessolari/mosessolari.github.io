@@ -14,7 +14,7 @@ and for monotonic f
 ```math
 \lim_{N\to\infty}S(f(t),x,N,a):=\sum_{k=a}^x\left[f(k)\right]\ \ (2)
 ```
-I would also like to give a functional relation; let $f(t,c)=\frac{1}{t^c}\ \ \forall\ \ t\in\mathbb{Q}$. If we have some $p$ and $q$ such that $p,q\in\mathbb{N}$ then we can let $t=\frac{p}{q}$ and see
+I would also like to give a functional relation; let $f(t,c)=\frac{1}{t^c}\ \ \forall\ \ t\in\mathbb{Q}$. If we have some $p$ and $q$ such that $p,q\in\mathbb{N}$ then we can let $t=k+\frac{p}{q}$ and see
 ```math
 f(k+\frac{p}{q},c)=\frac{1}{(k+\frac{p}{q})^c}=\frac{q^c}{(kq+p)^c}=q^c f(kq+p,c)\ \ (3)
 ```
