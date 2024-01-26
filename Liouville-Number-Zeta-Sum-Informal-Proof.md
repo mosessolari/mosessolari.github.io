@@ -102,4 +102,4 @@ Which reduces to
 This implies that, regardless of $p$, $q$ and $r$, if we select a sufficiently large $N$, then there must come a point where the Liouville number identity does not hold (which shows that $L$ is transcendental by Thue–Siegel–Roth theorem). Another result is that the irrationality measure of $L$ must be $\infty$, implying that it is a Liouville number. This concludes the proof.
 
 ## Final Statements
-I believe that this idea can be used as a basis to show that any infinite sum of a monotonic function is a transcendental/Liouville number (you just have to have a construction for $`Q(N)`$ that grows quickly enough for $`\frac{1}{Q(N)}`$). Be safe cuties <3
+I believe that this idea can be used as a basis to show that any infinite sum of a monotonic function is a transcendental/Liouville number (you just have to have a construction for $`Q(N)`$ that grows quickly enough for $`\frac{1}{Q(N)^r}`$ to become negligble). Be safe cuties <3
