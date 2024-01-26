@@ -18,7 +18,7 @@ I would also like to give a functional relation; let $f(t,c)=\frac{1}{t^c}\ \ \f
 ```math
 f(k+\frac{p}{q},c)=\frac{1}{(k+\frac{p}{q})^c}=\frac{q^c}{(kq+p)^c}=q^c f(kq+p,c)\ \ (3)
 ```
-The following identity for inifinite summation will also make things clear
+The following identity for inifinite summation will also make things easier to read
 ```math
 L=\lim_{N\to\infty}\sum_{k=a}^N\left[f(k)\right]\ \ (4)
 ```
