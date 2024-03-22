@@ -17,7 +17,7 @@ Using the "fundamental theorem of arithmetic" (which maybe should be more approp
 <br></br>
 
 ## Motivation
-It's not like I'm all day stalking everyones proofs or anything, but every proof I have seen for the prime number theorem is ugly as hell bruh. I have this weird notion in my mind that simple questions deserve simple answers, and since the pnt is one of those problems that has historically had some controversy in regards to having a "simple" answer, I decided to write my own proof. Also, hopefully, this can help people realise the some of the strengths behind a more "classical" approach/mindset towards mathmetics.
+It's not like I'm all day stalking everyones proofs or anything, but every proof I have seen for the prime number theorem is ugly as hell bruh. I have this weird notion in my mind that simple questions deserve simple answers, and since the pnt is one of those problems that has historically had some controversy in regards to having a "simple" answer, I decided to write my own proof. Also, hopefully, this can help people realise some of the strengths behind a more "classical" approach/mindset towards mathmetics.
 
 <br></br>
 
