@@ -42,7 +42,7 @@ N(10,d)=2*(10^0)+1*(10^1)=2+10=12\qquad where\ d=\left\{2,1,0,0,0,\ldots,0\right
 Using the set of digits, $d$, we can assign a value to $N$ with the function:
 
 ```math
-G(d)=\sum_{k=0}^\infty\left[p_{k}^{d_{k}}\right]
+G(d)=\prod_{k=0}^\infty\left[p_{k}^{d_{k}}\right]
 ```
 ```math
 where\ p_{k}\ is\ the\ kth\ prime\ starting\ from\ k=0\ (p_{0}=2,\ p_{1}=3,\ p_{2}=5\ etc)
